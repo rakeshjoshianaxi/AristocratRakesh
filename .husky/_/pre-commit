@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+echo '? Husky Pre-Commit Hook Triggered!'
+# . "$(dirname "$0")/h"
+npx eslint .
