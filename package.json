@@ -1,0 +1,29 @@
+{
+  "name": "mywebproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"No tests yet\" && exit 0",
+    "build": "echo \"Static site, nothing to build\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshjoshianaxi/AristocratRakesh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rakeshjoshianaxi/AristocratRakesh/issues"
+  },
+  "homepage": "https://github.com/rakeshjoshianaxi/AristocratRakesh#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "eslint": "^9.27.0",
+    "globals": "^16.1.0",
+    "typescript-eslint": "^8.32.1"
+  }
+}
